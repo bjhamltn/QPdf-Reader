@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EFBDocumentReader", "EFBDocumentReader.vcxproj", "{A2B00A75-7B9E-3779-AA4E-C437E6D2A756}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2B00A75-7B9E-3779-AA4E-C437E6D2A756}.Debug|x86.ActiveCfg = Debug|Win32
+		{A2B00A75-7B9E-3779-AA4E-C437E6D2A756}.Debug|x86.Build.0 = Debug|Win32
+		{A2B00A75-7B9E-3779-AA4E-C437E6D2A756}.Release|x86.ActiveCfg = Release|Win32
+		{A2B00A75-7B9E-3779-AA4E-C437E6D2A756}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {478E2425-2022-4737-AC47-EE332ED861A0}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://pwn15035.prod.fedex.com:8080/avionicsdatamanagement
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = EFBDocumentReader.vcxproj
+		SccLocalPath1 = .
+	EndGlobalSection
+EndGlobal

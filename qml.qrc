@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>LocationList.qml</file>
+        <file>PdfOutline.qml</file>
+        <file>OneTimer.qml</file>
+        <file>LeftToolBar.qml</file>
+        <file>TopToolBar.qml</file>
+        <file>SearcherResults.qml</file>
+        <file>PDFViewer.qml</file>
+        <file alias="ic1">images/ic1.png</file>
+        <file alias="ic2">images/ic2.png</file>
+        <file alias="ic3">images/ic3.png</file>
+        <file>images/ic4.png</file>
+        <file>images/ic5.png</file>
+        <file alias="ic6">images/ic6.png</file>
+        <file alias="bookmark">images/bookmark.png</file>
+        <file alias="bookmark_dwn">images/bookmark_dwn.png</file>
+        <file>images/ic4_drk.png</file>
+        <file>images/ic5_drk.png</file>
+        <file alias="ic6_drk">images/ic6_drk.png</file>
+        <file alias="bookmark_drk">images/bookmark_drk.png</file>
+        <file alias="ic1_drk">images/ic1_drk.png</file>
+        <file alias="ic3_drk">images/ic3_drk.png</file>
+        <file alias="npage">images/npage.png</file>
+        <file alias="ppage">images/ppage.png</file>
+        <file alias="rotate_pg">images/rotate_pg.png</file>
+        <file alias="rotate_pg_drk">images/rotate_pg_drk.png</file>
+        <file alias="ic5">images/tohight.png</file>
+        <file alias="ic4">images/towidth.png</file>
+        <file alias="ic5_drk">images/tohight_drk.png</file>
+        <file alias="ic4_drk">images/towidth_drk.png</file>
+        <file>MasterPage.qml</file>
+    </qresource>
+</RCC>

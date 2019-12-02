@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dataobject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pdfprovider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="textworker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="treeitem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="treemodel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="viewercontroller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="headers\dataobject.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="headers\pdfprovider.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="headers\textworker.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="headers\treeitem.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="headers\treemodel.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="headers\viewercontroller.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="debug\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="release\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="LeftToolBar.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="LocationList.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="OneTimer.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="PDFViewer.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Page1Form.ui.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Page2Form.ui.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="PdfOutline.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="SearcherResults.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="TopToolBar.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\bookmark.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\bookmark_drk.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\bookmark_dwn.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\ic1.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\ic1_drk.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\ic2.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\ic3.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\ic3_drk.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\ic4.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\ic4_drk.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\ic5.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\ic5_drk.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\ic6.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\ic6_drk.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="main.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\npage.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\ppage.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <QtRcc Include="qml.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <None Include="qtquickcontrols2.conf">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include=".\EFBDocumentReader_resource.rc" />
+  </ItemGroup>
+</Project>
